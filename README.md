@@ -37,6 +37,9 @@ _____________________________________
 * Probably one of the main points of this engine, you can code in .lua files outside of the source code, making your own weeks without even messing with the source!
 * Comes with a Mod Organizing/Disabling Menu. 
 
+### BONUS
+* OS. has returned (please do not add viruses to your mod or i will take it down)
+
 
 ## Atleast one change to every week:
 ### Week 1:
@@ -49,15 +52,24 @@ _____________________________________
 ### Week 3:
   * BF does "Hey!" during Philly Nice
   * Blammed has a cool new colors flash during that sick part of the song
+  * Bullet Notes
 ### Week 4:
   * Better hair physics for Mom/Boyfriend (Maybe even slightly better than Week 7's :eyes:)
-  * Henchmen die during all songs. Yeah :(
+  * Henchmen die during all songs. Yeah :( (RIP)
 ### Week 5:
   * Bottom Boppers and GF does "Hey!" animations during Cocoa and Eggnog
-  * On Winter Horrorland, GF bops her head slower in some parts of the song.
+  * On Winter Horrorland, GF is scared.
 ### Week 6:
+  * PIxel BF now has a "Hey!" animation
   * On Thorns, the HUD is hidden during the cutscene
   * Also there's the Background girls being spooky during the "Hey!" parts of the Instrumental
+### Week 7:
+  * a little easter egg with stress
+### EXTRA
+  * Winning icons
+  * [Dave and Bambi](https://fridaynightfunking.fandom.com/wiki/Vs._Dave_and_Bambi) hitsounds
+  * Noteskins from [VS Ron](https://gamebanana.com/mods/download/309980) and [Bob and Bosip](https://fridaynightfunking.fandom.com/wiki/Vs._Bob_and_Bosip) (NOT AFFILIATED WITH AMOR)
+  * Pressing SPACE does a "Hey!" pose
 
 ## Cool new Chart Editor changes and countless bug fixes
 ![](https://github.com/ShadowMario/FNF-PsychEngine/blob/main/docs/img/chart.png?raw=true)
@@ -76,6 +88,7 @@ _____________________________________
 ![](https://i.imgur.com/UB2EKpV.png)
 * Added a different BG to every song (less Tutorial)
 * All menu characters are now in individual spritesheets, makes modding it easier.
+* Locked weeks have a black icon ([Dave and Bambi Golden Apple](https://fridaynightfunking.fandom.com/wiki/Vs._Dave_and_Bambi:_Golden_Apple_Edition) style)
 
 ## Credits menu
 ![Screenshot_1](https://user-images.githubusercontent.com/44785097/144632635-f263fb22-b879-4d6b-96d6-865e9562b907.png)
@@ -94,3 +107,5 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+
+* a "special" easter egg!!!
