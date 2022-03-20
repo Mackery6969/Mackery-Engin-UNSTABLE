@@ -3543,7 +3543,7 @@ class PlayState extends MusicBeatState
 		var space = FlxG.keys.justPressed.SPACE;
 		//trace('Pressed: ' + eventKey);
 
-		if (space && !cpiControlled && !paused) {
+		if (space && !cpuControlled && !paused) {
 			if(boyfriend.animation.getByName('hey') != null) {
 				boyfriend.playAnim('hey', true);
 				boyfriend.specialAnim = true;
