@@ -3543,14 +3543,15 @@ class PlayState extends MusicBeatState
 		var space = FlxG.keys.justPressed.SPACE;
 		//trace('Pressed: ' + eventKey);
 
+		if (space && !cpiControlled && !paused) {
+			if(boyfriend.animation.getByName('hey') != null) {
+				boyfriend.playAnim('hey', true);
+				boyfriend.specialAnim = true;
+			}
+		}
+
 		if (!cpuControlled && !paused && key > -1 && (FlxG.keys.checkStatus(eventKey, JUST_PRESSED) || ClientPrefs.controllerMode))
 		{
-			if (space) {
-				if(boyfriend.animation.getByName('hey') != null) {
-					boyfriend.playAnim('hey', true);
-					boyfriend.specialAnim = true;
-				}
-			}
 			if(!boyfriend.stunned && generatedMusic && !endingSong)
 			{
 				//more accurate hit time for the ratings?
