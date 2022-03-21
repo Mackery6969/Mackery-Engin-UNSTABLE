@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="bfPixel.png"><SubTexture name="BF HEY instance 0000" x="174" y="130" width="56" height="59" frameX="-1" frameY="-14" frameWidth="73" frameHeight="73" />
-<SubTexture name="BF HEY instance 0001" x="174" y="130" width="56" height="59" frameX="-1" frameY="-14" frameWidth="73" frameHeight="73" />
-<SubTexture name="BF HEY instance 0002" x="255" y="440" width="60" height="59" frameX="-1" frameY="-14" frameWidth="73" frameHeight="73" />
+<TextureAtlas imagePath="bfPixel.png"><SubTexture name="BF HEY instance 0000" x="174" y="130" width="56" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
+<SubTexture name="BF HEY instance 0001" x="174" y="130" width="56" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
+<SubTexture name="BF HEY instance 0002" x="255" y="440" width="60" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
 <SubTexture name="BF HEY instance 0003" x="255" y="440" width="60" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
 <SubTexture name="BF HEY instance 0004" x="315" y="440" width="61" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
 <SubTexture name="BF HEY instance 0005" x="315" y="440" width="61" height="59" frameX="-1" frameY="-10" frameWidth="73" frameHeight="73" />
