@@ -659,6 +659,10 @@ class PlayState extends MusicBeatState
 					bgGirls.setGraphicSize(Std.int(bgGirls.width * daPixelZoom));
 					bgGirls.updateHitbox();
 					add(bgGirls);
+
+					var tveffect:BGSprite = new BGSprite('weeb/TV', 0, 0, 0.1, 0.1);
+					add(tveffect);
+					tveffect.antialiasing = false;
 				}
 
 			case 'schoolEvil': //Week 6 - Thorns
