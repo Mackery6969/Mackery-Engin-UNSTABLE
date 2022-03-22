@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Ugh",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Guns",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Stress",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "TANKMAN",
+	"weekName": "Tankman",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
