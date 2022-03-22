@@ -25,6 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
+	public statuc var MackeryVersion:String = '0.1.0a'
 	public static var psychEngineVersion:String = '0.5.2h'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
@@ -135,6 +136,7 @@ class MainMenuState extends MusicBeatState
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
+		var versionShit:FixText = new FixText(12, FixG.height - 24, 0, "Mackery Engine v" + MackeryVersion, 12);
 
 		// NG.core.calls.event.logEvent('swag').send();
 
